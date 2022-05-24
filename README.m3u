@@ -1,0 +1,335 @@
+#EXTM3U
+#EXTINF:-1,5HD
+http://61.19.242.134/feed/202105171329/ch5hd/index.m3u8
+#EXTINF:-1,NBT
+http://61.19.242.134/feed/202105171329/chnbt/index.m3u8
+#EXTINF:-1,THAI PBS
+http://61.19.242.134/feed/202105171329/chthaipbs/index.m3u8
+#EXTINF:-1,THAIRATH
+http://61.19.242.134/feed/202105171329/chthairath/index.m3u8
+#EXTINF:-1,NEWTV
+http://61.19.242.134/feed/202105171329/newtv/index.m3u8
+#EXTINF: -1, TNN
+http://61.19.242.134/feed/202105171329/chtnn/index.m3u8
+#EXTINF:-1,NATION
+http://61.19.242.134/feed/202105171329/chnation/index.m3u8
+#EXTINF:-1,WORKPOINT
+http://61.19.242.134/feed/202105171329/chworkpoint/index.m3u8
+#EXTINF:-1,TRUE4U
+http://61.19.242.134/feed/202105171329/202105171329/chtrue4u/index.m3u8
+#EXTINF:-1,GMM25
+http://61.19.242.134/feed/202105171329/chgmm/index.m3u8
+#EXTINF:-1,CH8
+http://61.19.242.134/feed/202105171329/ch8/index.m3u8
+#EXTINF: -1, MONO
+http://61.19.242.134/feed/202105171329/chmono29/index.m3u8
+#EXTINF:-1,MCOT HD
+http://61.19.242.134/feed/202105171329/chmcothd/index.m3u8
+#EXTINF:-1,ONE
+http://61.19.242.134/feed/202105171329/chonehd/index.m3u8
+#EXTINF:-1,3HD
+http://61.19.242.134/feed/202105171329/ch3hd/index.m3u8
+#EXTINF:-1,YELLOW
+http://61.19.242.134/feed/202105171329/chamarin/index.m3u8
+#EXTINF:-1,7HD
+http://61.19.242.134/feed/202105171329/ch7hd/index.m3u8
+#EXTINF:-1,PPTV
+http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8
+#EXTINF:-1,NEW
+http://61.19.242.134/feed/202105171329/newtv/index.m3u8
+#EXTINF: -1, TOPNEWS
+http://61.19.242.134/feed/202105171329/chtopnews/index.m3u8
+#EXTINF:-1,CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,AIS PLAY 1
+http://150.95.25.221:8000/AIS%20PLAY%201?u=covid19:p=9595941214
+#EXTINF:-1,AIS PLAY 2
+http://150.95.25.221:8000/AIS%20PLAY%202?u=covid19:p=9595941214
+ #EXTINF:-1,AIS PLAY 3
+http://150.95.25.221:8000/AIS%20PLAY%203?u=covid19:p=9595941214
+
+#EXTINF:-1,NGC Eng
+http://150.95.25.221:8000/NGC%20Asisat7?u=covid19:p=9595941214
+#EXTINF:-1,NGC TH{Belgium/France}
+http://150.95.25.221:8000/TPE%201%20HD%20?u=covid19:p=9595941214
+#EXTINF:-1,Skynet Sport HD{Belgium/France}
+http://150.95.25.221:8000/Skynet%20sports%20HD1?u=covid19:p=9595941214
+#EXTINF:-1,SpoTV HD1
+http://150.95.25.221:8000/SpoTV1?u=covid19:p=9595941214
+#EXTINF:-1,SpoTV HD2
+http://150.95.25.221:8000/SpoTV2?u=covid19:p=9595941214
+
+#EXTINF:-1,ESPN EPL1
+http://150.95.25.221:8000/ESPN?u=covid19:p=9595941214
+
+
+
+ #EXTINF:-1,F1[LIVE] #SPFL
+http://150.95.25.221:8000/Live%201%20Feed?u=covid19:p=9595941214
+#EXTINF:-1,Bein1 HD
+http://150.95.25.221:8000/Bein1%20HD?u=covid19:p=9595941214
+#EXTINF:-1,Bein2 HD
+http://150.95.25.221:8000/Bein2%20HD?u=covid19:p=9595941214
+#EXTINF:-1,Eurosports Asia
+http://150.95.25.221:8000/Eurospor%20Asia?u=covid19:p=9595941214
+
+ #EXTINF:-1,TrueSportsHD2
+http://150.95.25.221:8000/TrueSportsHD2?u=covid19:p=9595941214
+ #EXTINF:-1,TrueSportsHD3
+http://150.95.25.221:8000/TrueSportsHD3?u=covid19:p=9595941214
+
+#EXTINF:-1,True Sports HD
+http://150.95.25.221:8000/True%20Sports%20HD?u=covid19:p=9595941214
+#EXTINF:-1,True Sports HD2
+http://150.95.25.221:8000/True%20Sports%20HD2?u=covid19:p=9595941214
+#EXTINF:-1,True Sports HD3
+http://150.95.25.221:8000/True%20Sports%20HD3?u=covid19:p=9595941214
+#EXTINF:-1,True Sports HD4
+http://150.95.25.221:8000/True%20Sports%20HD4?u=covid19:p=9595941214
+#EXTINF:-1,Sport TV 1
+http://150.95.25.221:8000/Sport%20TV%201?u=covid19:p=9595941214
+#EXTINF:-1,Sport TV 2
+http://150.95.25.221:8000/Sport%20TV%202?u=covid19:p=9595941214
+#EXTINF:-1,Sport TV 3
+http://150.95.25.221:8000/Sport%20TV%203?u=covid19:p=9595941214
+#EXTINF:-1,Sport TV 4
+http://150.95.25.221:8000/Sport%20TV%204?u=covid19:p=9595941214
+#EXTINF:-1,Sport TV 5
+http://150.95.25.221:8000/Sport%20TV%205?u=covid19:p=9595941214
+
+ #EXTINF:-1,True Sports5
+http://150.95.25.221:8000/True%20Sports5?u=covid19:p=9595941214
+ #EXTINF:-1,True Sports7
+http://150.95.25.221:8000/True%20Sports7?u=covid19:p=9595941214
+ #EXTINF:-1,TENNIS HD
+http://150.95.25.221:8000/TENNIS%20HD?u=covid19:p=9595941214
+ #EXTINF:-1,NFL HD
+http://150.95.25.221:8000/NFL%20HD?u=covid19:p=9595941214
+ #EXTINF:-1,GOLF HD
+http://150.95.25.221:8000/GOLF%20HD?u=covid19:p=9595941214
+ #EXTINF:-1,Eurosport 1
+http://150.95.25.221:8000/Eurosport%201?u=covid19:p=9595941214
+
+ #EXTINF:-1,EPL1 HD
+http://150.95.25.221:8000/EPL1%20HD?u=covid19:p=9595941214
+ #EXTINF:-1,Bein1 HD
+http://150.95.25.221:8000/Bein1%20HD?u=covid19:p=9595941214
+ #EXTINF:-1,Bein2 HD
+http://150.95.25.221:8000/Bein2%20HD?u=covid19:p=9595941214
+
+#EXTINF:-1,Sony Ten 1 
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+#EXTINF:-1,Sony Ten 2
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+#EXTINF:-1,Sony Ten 3
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",True Premier Football HD 1
+https://www.doofreemovie.com/player/c/151/Premier-Football-HD-1-151/37937.html
+
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",True Premier Football HD 1 NEW
+https://www.doball4k.com/?r=tv&id=151
+
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",True Premier Football HD 2
+https://www.livestream88.com/sport/true-premier-football-hd-2/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",True Premier Football HD 3
+https://www.livestream88.com/sport/true-premier-football-hd-3/
+
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",True Premier Football HD 3 NEW
+https://www.doball4k.com/?r=tv&id=153
+
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",True Premier Football HD 4
+https://www.livestream88.com/sport/true-premier-football-hd-4/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",True Premier Football HD 5
+https://www.livestream88.com/sport/true-premier-football-hd-5/
+
+#EXTINF:-1 tvg-logo="https://www.img01.xyz/assets/img/ch_logo/epl-bein1.png",Bein Sport HD1
+https://www.livestream88.com/sport/bein-sport-hd-1/
+
+
+#EXTINF:-1 tvg-logo="https://www.img01.xyz/assets/img/ch_logo/epl-bein1.png",Bein Sport HD1 NEW
+https://www.doball4k.com/?r=tv&id=18
+
+#EXTINF:-1 tvg-logo="https://www.img01.xyz/assets/img/ch_logo/epl-bein2.png",Bein Sport HD2
+https://www.livestream88.com/sport/bein-sport-hd-2/
+
+#EXTINF:-1 tvg-logo="https://www.img01.xyz/assets/img/ch_logo/epl-bein2.png",Bein Sport HD3
+https://we-play.live/watching/tv/bein-sports-3
+
+
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/spotv-poster.jpg",Spotv
+https://we-play.live/watching/tv/spotv
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/spotv2-poster.jpg",Spotv 2
+https://we-play.live/watching/tv/spotv2
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/true-sports-1-poster.jpg",True sports 1
+https://we-play.live/watching/tv/true-sports-1
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/true-sports-2-poster.jpg",True sports 2
+https://we-play.live/watching/tv/true-sports-2
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/true-sports-3-poster.jpg",True sports 3
+https://we-play.live/watching/tv/true-sports-3
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/true-sports-5-poster.jpg",True sports 5
+https://we-play.live/watching/tv/true-sports-5
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/true-sports-7-poster.jpg",True sports 7
+https://we-play.live/watching/tv/true-sports-7
+
+#EXTINF:-1 tvg-logo="https://youflix4k.com/uploads/jpg/b7447557f23170e25fdd5d85e4978a7a.jpg",True sports HD
+https://www.livestream88.com/sport/true-sport-hd-1/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjvO60AWZjpegPlJhjkv2zdARkCsv9Pk4IL7H_XcSPFgFjzuU_E9DZi8t11rlQUj345lg&usqp=CAU",True sports HD 2
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88/truesporthd2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2022/01/truesporthd3.png",True sports HD 3
+https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesporthd3/
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/sport-tv-1-poster1602801124.jpeg",Sport TV 1 NEW
+https://www.doball4k.com/?r=tv&id=139
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/sport-tv-2-poster1602801140.jpeg",Sport TV 2 NEW
+https://www.doball4k.com/?r=tv&id=140
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/sport-tv-3-poster1602801156.jpeg",Sport TV 3 NEW
+https://www.doball4k.com/?r=tv&id=141
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/sport-tv-4-poster1602801172.jpeg",Sport TV 4 NEW
+https://www.doball4k.com/?r=tv&id=142
+
+#EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-sporttv5.jpg",Sport TV 5 NEW
+https://www.doball4k.com/?r=tv&id=143
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/sport-tv-1-poster1602801124.jpeg",Sport TV 1
+https://we-play.live/watching/tv/sport-tv-1
+
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/sport-tv-2-poster1602801140.jpeg",Sport TV 2
+https://we-play.live/watching/tv/sport-tv-2
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/sport-tv-3-poster1602801156.jpeg",Sport TV 3
+https://we-play.live/watching/tv/sport-tv-3
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/sport-tv-4-poster1602801172.jpeg",Sport TV 4
+https://we-play.live/watching/tv/sport-tv-4
+
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/astro-supersport-1-poster1602800808.jpeg",Astro SuperSport 1
+https://we-play.live/watching/tv/astro-supersport-1
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/astro-supersport-2-poster1602800836.jpeg",Astro SuperSport 2
+https://we-play.live/watching/tv/astro-supersport-2
+
+
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/astro-supersport-3-poster1602800856.jpeg",Astro SuperSport 3
+https://we-play.live/watching/tv/astro-supersport-3
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/astro-supersport-4-poster1602800887.jpeg",Astro SuperSport 4
+https://we-play.live/watching/tv/astro-supersport-4
+
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/astro-supersport-2-poster1602800836.jpeg",Astro SuperSport 2 Test
+https://mobetz.com/doball/ch396/
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/astro-supersport-3-poster1602800856.jpeg",Astro SuperSport 3 TEST
+https://www.liveballsod.com/tv-online/ch397/
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA4f2BLrLJye4gms7g4K0kHCt3Mz-5m0K0OA&usqp=CAU",Digi Sport 1
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88/digisport1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQidCLoJRzDqjQcD5hSJpqnZXpaQf1_r0UIcw&usqp=CAU",Digi Sport 2
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88/digisport2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Y-F483t6Xtn99yHSCvbfHNAMMSz8yKUJgg&usqp=CAU",Digi Sport 3
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88/digisport3/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVu0UPg0lv9A9iN5qi87kHOnYcNUTRkhr_cQ&usqp=CAU",Digi Sport 4
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88/digisport4/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5tnlFqhuiPLb1Fk0DcXZdUZpHIT0d9QK58g&usqp=CAU",BT Sport 1
+https://www.livestream88.com/sport/bt-sport-hd1/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5tnlFqhuiPLb1Fk0DcXZdUZpHIT0d9QK58g&usqp=CAU",BT Sport 2
+https://youdooball.livedoomovies.com:4432/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5tnlFqhuiPLb1Fk0DcXZdUZpHIT0d9QK58g&usqp=CAU",BT Sport 2 test
+https://www.doball4k.com/?r=tv&id=157
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJSQ9UIwvpIG34FvYWvyWexUUnn2DvcDmciw&usqp=CAU",BT Sport 3
+https://www.livestream88.com/sport/bt-sport-hd3/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJSQ9UIwvpIG34FvYWvyWexUUnn2DvcDmciw&usqp=CAU",BT Sport 3 new
+https://we-play.live/watching/tv/bt-sport-3-hd
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",True Thai Film
+https://we-play.live/watching/tv/true-thai-film
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911",Hits Movies
+https://we-play.live/watching/tv/hits-movies
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/-poster1602704752.jpeg",True Film hd 1
+https://we-play.live/watching/tv/true-film-hd
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",True Movie Hits
+https://we-play.live/watching/tv/true-movie-hits
+
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",ESPN
+https://www.liveballsod.com/tv-online/ch028/
+
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/national-geographic-poster1602705795.jpeg",National Geographic
+https://we-play.live/watching/tv/national-geographic
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/history-hd-poster1602705667.jpeg",History HD
+https://we-play.live/watching/tv/history-hd
+
+#EXTINF:-1 tvg-logo="https://we-play.live/uploads/posters/animal-planet-poster1602705496.jpeg",Animal Planet
+https://we-play.live/watching/tv/animal-planet
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/qwm5851582554065.png",THAI LEAGUE 1
+https://www.doonung1234.com/match/view/22726/epl1
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/qwm5851582554065.png",THAI LEAGUE 2
+https://www.fifa5t.com/doballlive/ch418/|Referer=https://www.fifa5t.com
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/qwm5851582554065.png",THAI LEAGUE 3
+https://www.fifa5t.com/doballlive/ch422/|Referer=https://www.fifa5t.com
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/qwm5851582554065.png",THAI LEAGUE 4
+https://www.fifa5t.com/doballlive/ch423/|Referer=https://www.fifa5t.com
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/qwm5851582554065.png",THAI LEAGUE 5
+https://www.fifa5t.com/doballlive/ch424/|Referer=https://www.fifa5t.com
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/qwm5851582554065.png",THAI LEAGUE 6
+https://www.fifa5t.com/doballlive/ch425/|Referer=https://www.fifa5t.com
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/qwm5851582554065.png",THAI LEAGUE 7
+https://www.fifa5t.com/doballlive/ch426/|Referer=https://www.fifa5t.com
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/qwm5851582554065.png",THAI LEAGUE 8
+https://www.fifa5t.com/doballlive/ch427/|Referer=https://www.fifa5t.com
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/qwm5851582554065.png",THAI LEAGUE 9
+https://www.fifa5t.com/doballlive/ch428/|Referer=https://www.fifa5t.com
